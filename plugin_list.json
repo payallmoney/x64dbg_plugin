@@ -1,37 +1,18 @@
 {
-    "Date": "2023-03-01",
+    "Date": "2024-11-08",
     "Modules": [
         {
             "Author": "ret-sync",
             "Bugreport": "https://github.com/bootleg/ret-sync/issues",
-            "CompressedSize": 0,
-            "Convert": [
-                {
-                    "Action": "unpack_file",
-                    "Path": "commithash.txt",
-                    "Pattern": "snapshot",
-                    "Src": "commithash.txt"
-                },
-                {
-                    "Action": "unpack_directory",
-                    "Path": "/",
-                    "Pattern": "snapshot",
-                    "Src": "release"
-                }
-            ],
-            "Date": "2023-02-24",
-            "Download": [
-                {
-                    "Src": "https://gh.xmly.dev/https://raw.githubusercontent.com/payallmoney/x64dbg_plugin/refs/heads/main/ret-sync.zip"
-                }
-            ],
-            "Github": "https://github.com/bootleg/ret-sync",
-            "Info": "Sync x64dbg and ida ",
+            "CompressedSize": 151227,
+            "Date": "2022-01-22",
+            "Info": "Sync x64dbg and ida",
             "Is32": true,
             "Is64": true,
             "Name": "ret-sync",
-            "Size": 0,
-            "Src": "",
+            "SHA1": "5E35408D6370736A1E6D0D4A9E3CAA0EC1BBD3EB",
+            "Size": 151227,
+            "Src": "https://gh.xmly.dev/https://gh.xmly.dev/https://raw.githubusercontent.com/payallmoney/x64dbg_plugin/refs/heads/main/ret-sync.zip",
             "Updated": "2022-01-22 10:25:45",
             "Version": "2022-01-22"
         },
